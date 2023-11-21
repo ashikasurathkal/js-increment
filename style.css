@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    text-align: center;
+}
+/* main container*/
+.container{
+    background:aquamarine;
+    height:400px ;
+    width:400px ;
+    margin: 40px auto 0 auto;
+    border-radius: 50px;
+}
+h1{
+    background: none;
+    padding-top: 20px;
+    font-size: 50px;
+}
+.inc{
+   
+    background:pink;
+    border: 2px solid black;
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    font-size: large;
+    font-weight: bold;
+    margin-top: 50px;
+}
+.dec{
+    background-color: pink;
+   
+}
+.button{
+   position: relative;
+   left: 155px;
+   display: block;
+   justify-content: center;
+    background:pink;
+    color: black;
+    border: 2px solid black;
+    height: 50px;
+    width: 80px;
+    border-radius: 10px;
+    font-size: large;
+    font-weight: bold;
+    margin-top: 50px;
+}
+#save{
+    text-decoration: green ;
+    font-size: large;
+    color: rgb(33, 20, 221);
+}
